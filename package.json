@@ -1,0 +1,29 @@
+{
+  "name": "saldo-bitcoin",
+  "version": "1.0.0",
+  "description": "Aprenda a buscar o saldo do Bitcoin com Javascript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersonbrogadev/saldo-bitcoin.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "javascript",
+    "saldo",
+    "js",
+    "node"
+  ],
+  "author": "Emerson Broga Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emersonbrogadev/saldo-bitcoin/issues"
+  },
+  "homepage": "https://github.com/emersonbrogadev/saldo-bitcoin#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
